@@ -5,10 +5,4 @@ info:
   environment: "Default"
   message: "Welcome to the Global Configuration"
 
-userservice:
-  message: "Welcome to User Service"
-  database:
-    url: "jdbc:mysql://localhost:3306/userdb"
-    username: "root"
-    password: "password"
 
