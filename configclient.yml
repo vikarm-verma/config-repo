@@ -1,1 +1,8 @@
+# userservice.yml
 
+configclient:
+  message: "Welcome to config client Service"
+  database:
+    url: "jdbc:mysql://localhost:3306/userdb"
+    username: "root"
+    password: "password"
