@@ -1,1 +1,10 @@
+# userservice-dev.yml
 
+info:
+  environment: "Development"
+
+user-microservice:
+  database:
+    url: "jdbc:mysql://localhost:3306/userdb_dev"
+    username: "devuser"
+    password: "devpassword"
