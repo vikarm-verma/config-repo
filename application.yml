@@ -1,1 +1,7 @@
+# application.yml
+
+info:
+  company: "Example Corp"
+  environment: "Default"
+  message: "Welcome to the Global Configuration"
 
