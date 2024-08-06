@@ -1,1 +1,11 @@
+# userservice-prod.yml
+
+info:
+  environment: "Production"
+
+userservice:
+  database:
+    url: "jdbc:mysql://prod-db-server:3306/userdb"
+    username: "produser"
+    password: "prodpassword"
 
