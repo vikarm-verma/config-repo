@@ -4,6 +4,7 @@ info:
   environment: "Development"
 
 user-microservice:
+  message: "Updated Welcome Message"
   database:
     url: "jdbc:mysql://localhost:3306/userdb_dev"
     username: "devuser"
