@@ -1,7 +1,7 @@
 # userservice.yml
 
 configclient:
-  message: "Welcome to config client Service 1"
+  message: "Welcome to config client Service and I want to see updates here"
   database:
     url: "jdbc:mysql://localhost:3306/userdb"
     username: "root"
